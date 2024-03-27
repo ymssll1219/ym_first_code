@@ -1,2 +1,2 @@
-# ym_first_code
-第一篇论文代码
+# Cancer type and survival prediction based on transcriptomic digital map
+
